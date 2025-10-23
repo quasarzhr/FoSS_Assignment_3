@@ -1,0 +1,146 @@
+[
+    {
+        "time": "2025-10-23 00:00:00",
+        "Temperature (°C)": 5.8,
+        "Wind Speed (m/s)": 4.99,
+        "Humidity (%)": 87
+    },
+    {
+        "time": "2025-10-23 01:00:00",
+        "Temperature (°C)": 5.9,
+        "Wind Speed (m/s)": 4.81,
+        "Humidity (%)": 85
+    },
+    {
+        "time": "2025-10-23 02:00:00",
+        "Temperature (°C)": 5.6,
+        "Wind Speed (m/s)": 4.76,
+        "Humidity (%)": 85
+    },
+    {
+        "time": "2025-10-23 03:00:00",
+        "Temperature (°C)": 5.6,
+        "Wind Speed (m/s)": 4.45,
+        "Humidity (%)": 84
+    },
+    {
+        "time": "2025-10-23 04:00:00",
+        "Temperature (°C)": 5.1,
+        "Wind Speed (m/s)": 4.38,
+        "Humidity (%)": 88
+    },
+    {
+        "time": "2025-10-23 05:00:00",
+        "Temperature (°C)": 5.0,
+        "Wind Speed (m/s)": 4.49,
+        "Humidity (%)": 89
+    },
+    {
+        "time": "2025-10-23 06:00:00",
+        "Temperature (°C)": 4.9,
+        "Wind Speed (m/s)": 4.49,
+        "Humidity (%)": 91
+    },
+    {
+        "time": "2025-10-23 07:00:00",
+        "Temperature (°C)": 4.7,
+        "Wind Speed (m/s)": 4.43,
+        "Humidity (%)": 92
+    },
+    {
+        "time": "2025-10-23 08:00:00",
+        "Temperature (°C)": 5.0,
+        "Wind Speed (m/s)": 4.48,
+        "Humidity (%)": 91
+    },
+    {
+        "time": "2025-10-23 09:00:00",
+        "Temperature (°C)": 5.0,
+        "Wind Speed (m/s)": 4.33,
+        "Humidity (%)": 95
+    },
+    {
+        "time": "2025-10-23 10:00:00",
+        "Temperature (°C)": 5.4,
+        "Wind Speed (m/s)": 4.45,
+        "Humidity (%)": 95
+    },
+    {
+        "time": "2025-10-23 11:00:00",
+        "Temperature (°C)": 5.5,
+        "Wind Speed (m/s)": 4.6,
+        "Humidity (%)": 98
+    },
+    {
+        "time": "2025-10-23 12:00:00",
+        "Temperature (°C)": 5.7,
+        "Wind Speed (m/s)": 4.48,
+        "Humidity (%)": 97
+    },
+    {
+        "time": "2025-10-23 13:00:00",
+        "Temperature (°C)": 5.9,
+        "Wind Speed (m/s)": 4.25,
+        "Humidity (%)": 96
+    },
+    {
+        "time": "2025-10-23 14:00:00",
+        "Temperature (°C)": 6.2,
+        "Wind Speed (m/s)": 4.08,
+        "Humidity (%)": 94
+    },
+    {
+        "time": "2025-10-23 15:00:00",
+        "Temperature (°C)": 5.9,
+        "Wind Speed (m/s)": 3.47,
+        "Humidity (%)": 98
+    },
+    {
+        "time": "2025-10-23 16:00:00",
+        "Temperature (°C)": 5.8,
+        "Wind Speed (m/s)": 3.48,
+        "Humidity (%)": 98
+    },
+    {
+        "time": "2025-10-23 17:00:00",
+        "Temperature (°C)": 5.8,
+        "Wind Speed (m/s)": 3.58,
+        "Humidity (%)": 99
+    },
+    {
+        "time": "2025-10-23 18:00:00",
+        "Temperature (°C)": 5.8,
+        "Wind Speed (m/s)": 3.29,
+        "Humidity (%)": 99
+    },
+    {
+        "time": "2025-10-23 19:00:00",
+        "Temperature (°C)": 5.8,
+        "Wind Speed (m/s)": 3.46,
+        "Humidity (%)": 99
+    },
+    {
+        "time": "2025-10-23 20:00:00",
+        "Temperature (°C)": 5.9,
+        "Wind Speed (m/s)": 3.57,
+        "Humidity (%)": 99
+    },
+    {
+        "time": "2025-10-23 21:00:00",
+        "Temperature (°C)": 6.0,
+        "Wind Speed (m/s)": 3.66,
+        "Humidity (%)": 99
+    },
+    {
+        "time": "2025-10-23 22:00:00",
+        "Temperature (°C)": 6.0,
+        "Wind Speed (m/s)": 3.3,
+        "Humidity (%)": 99
+    },
+    {
+        "time": "2025-10-23 23:00:00",
+        "Temperature (°C)": 6.1,
+        "Wind Speed (m/s)": 3.08,
+        "Humidity (%)": 99
+    }
+]
